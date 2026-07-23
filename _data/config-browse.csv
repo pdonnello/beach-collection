@@ -1,5 +1,9 @@
-field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+color_class,color
+primary,#1a7a9c
+secondary,#d8c3a5
+success,#3a9278
+info,#56c1d6
+warning,#f2b705
+danger,#e07a5f
+light,#f7f3ea
+dark,#2b4a5a
